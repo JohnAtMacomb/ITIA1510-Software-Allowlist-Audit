@@ -1,0 +1,12 @@
+# Programs approved by the IT department.
+# Blank lines and lines that start with # are ignored.
+Chrome
+Firefox
+Microsoft Word
+Microsoft Excel
+Zoom
+
+VS Code
+Python
+7-Zip
+Notepad++

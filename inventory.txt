@@ -1,0 +1,20 @@
+lab-01,Chrome
+lab-01,Zoom
+lab-01,uTorrent
+lab-02,Firefox
+lab-02,Python
+lab-02,VS Code
+lab-03,Chrome
+lab-03,Steam
+lab-03,uTorrent
+lab-03,CCleaner
+
+lab-04,Microsoft Word
+lab-04,Microsoft Excel
+lab-04,TeamViewer
+lab-05
+lab-06,7-Zip
+lab-06,Notepad++
+lab-06,Chrome
+lab-06,Tor Browser
+lab-06,TeamViewer
