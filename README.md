@@ -1,6 +1,6 @@
-# ITIA 1510 Week 08: Software Allowlist Audit
+# ITIA 1510 Week 07: Software Allowlist Audit
 
-Individual assignment. Topic: **reading and writing files**, from Week 08, and
+Individual assignment. Topic: **reading and writing files**, from Week 07, and
 everything before it. No regular expressions.
 
 The IT department keeps a list of the programs it allows on lab computers.
@@ -49,7 +49,7 @@ upload or merge files in the GitHub web interface.
 4. Create the branch before you change anything:
 
    ```
-   git checkout -b week08-software-allowlist-audit
+   git checkout -b week07-software-allowlist-audit
    ```
 
 5. Write the code. Commit as you go:
@@ -62,7 +62,7 @@ upload or merge files in the GitHub web interface.
 6. Push the branch:
 
    ```
-   git push -u origin week08-software-allowlist-audit
+   git push -u origin week07-software-allowlist-audit
    ```
 
 ## Demonstrate, then merge
@@ -74,7 +74,7 @@ upload or merge files in the GitHub web interface.
 
    ```
    git checkout main
-   git merge week08-software-allowlist-audit
+   git merge week07-software-allowlist-audit
    git push origin main
    ```
 

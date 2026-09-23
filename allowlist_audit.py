@@ -1,8 +1,8 @@
 """
-Week 08 INDIVIDUAL ASSIGNMENT -- Software Allowlist Audit
+Week 07 INDIVIDUAL ASSIGNMENT -- Software Allowlist Audit
 ITIA 1510 Cybersecurity Automation
 
-Topic: reading and writing files, from Week 08, and everything before it.
+Topic: reading and writing files, from Week 07, and everything before it.
 No regular expressions.
 
 The IT department keeps a list of approved programs. This program reads that
